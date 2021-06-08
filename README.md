@@ -18,10 +18,11 @@
  - introduction to sequencing
  - introdution to programing
  
- ## open science
+ ## learning open science
  learning foundation of open science and data management
  
  ## milestone : slack
  I've been able to learn to use slack
+ 
  ## mini-project
- will be assigned to do a mini project
+ i'll be assigned to do a mini project during the four months internship programme
