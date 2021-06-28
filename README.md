@@ -4,7 +4,7 @@
  and intern at ICIPE.
  my short term goal is to beable to learn to use git and github without any problem.
  # Short term vision
- Learn and be confortable with phylogenetics
+ Learn and be confortable with phylogenetics,microbiome
  # Long term vision 
  my vision is to learn programming,
  data management and principles of computer science 
