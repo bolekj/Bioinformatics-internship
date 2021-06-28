@@ -3,8 +3,9 @@
  graduate from the university of Nairobi
  and intern at ICIPE.
  my short term goal is to beable to learn to use git and github without any problem.
- 
- # VISION 
+ # Short term vision
+ Learn and be confortable with phylogenetics
+ # Long term vision 
  my vision is to learn programming,
  data management and principles of computer science 
  with its importance in bioinformatics as well as bioinformatics tools and its usage.
